@@ -9,10 +9,12 @@
 //let ano = 2002;
 //console.log(dia,mes,ano);
 
-  let valoringressoadulto = 20;
-  valoringressoadulto = 30;
-  console.log(valoringressoadulto)
+  //let valoringressoadulto = 20;
+  //valoringressoadulto = 30;
+  //console.log(valoringressoadulto)
 /// let permite poder redefinir o valor quantas vezes for necessário 
-   const valoringressoadulto = 20;
-   console.log(valoringressoadulto)
-// const é usado para quando o valor não precisa ser redefinido 
+   //const valoringressoadulto = 20;
+   //console.log(valoringressoadulto)
+// const é usado para quando o valor não precisa ser redefinido
+
+let nome = 'wesley'; //string literal
