@@ -35,3 +35,9 @@
 
 //console.log(pessoa);
 
+ // 'arrays' são conjunto de dados ou informaçoes
+
+ let familia = [19,8,38,40];
+
+ console.log(familia);
+
