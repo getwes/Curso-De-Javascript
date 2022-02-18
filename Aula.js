@@ -17,19 +17,21 @@
    //console.log(valoringressoadulto)
 // const é usado para quando o valor não precisa ser redefinido
 
-let nome = 'wesley'; //string literal
-let idade = 19; //number literal
-let estaAprovado = true; //boolean
-let sobrenome = undefined; // undefined
+//let nome = 'wesley'; //string literal
+//let idade = 19; //number literal
+//let estaAprovado = true; //boolean
+//let sobrenome = undefined; // undefined
 //let corSelecionada = null // redefinir um valor
 
 //Exemplo  'typeof nome' serve para mostrar em qual variável está.
 
-let pessoa = {
-    nome: 'wesley',
-    idade: 19,
-    estaAprovado: true,
-    sobrenome: 'freire'
-};
+//criando objeto
+//let pessoa = {
+  //  nome: 'wesley',
+  //  idade: 19,
+  //  estaAprovado: true,
+  //  sobrenome: 'freire'
+//};
 
-console.log(pessoa);
+//console.log(pessoa);
+
