@@ -39,5 +39,7 @@
 
  let familia = [19,8,38,40];
 
- console.log(familia);
+ console.log(familia. length);
+ console.log(familia[0]);
+ let nomeDoColega = []
 
