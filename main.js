@@ -1,3 +1,3 @@
-var menssager = 'hellow world'
+const messager = 'heloow world'
 
-alert(menssager)
+alert(messager)
