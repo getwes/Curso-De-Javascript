@@ -1,5 +1,5 @@
-let message = 'heloow world'
+//strings
 
-message = 'ola mundo'
+const message = 'hello world'
 
-
+console.log(message.length)
