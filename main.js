@@ -1,3 +1,5 @@
-const messager = 'heloow world'
+let message = 'heloow world'
 
-alert(messager)
+message = 'ola mundo'
+
+
