@@ -1,5 +1,6 @@
 //strings
 
-const message = 'hello world'
+const firstName = 'Wesley'
+const lastName = 'Freire'
 
-console.log(message.length)
+console.log('meu nome e ' + firstName +  ' ' + lastName)
