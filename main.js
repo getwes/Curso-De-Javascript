@@ -1,19 +1,11 @@
-//const number = 5
+const names =["wesley", "renan", "vitinho", 10, false];
 
-//console.log(number.toString());
-//console.log(typeof number.toString())
+const renan = names[3];
 
-//boleanos
-false 
-true
+names.push("joao");
 
-console.log(3 == 3)
+console.log(names);
 
-// Null e umderfined
+names.unshift(20);
 
-const x = null;
-
-const y = undefined;
-
-const list =[1,2,3,4,5];
-const object ={name: 'wesley'}
+console.log(names);
