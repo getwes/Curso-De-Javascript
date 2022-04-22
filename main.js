@@ -6,6 +6,6 @@ const renan = names[3];
 
 names.unshift(20);
 
-names.pop([1]);
+names.pop();
 
 console.log(names);
