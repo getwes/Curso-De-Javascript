@@ -2,10 +2,10 @@ const names =["wesley", "renan", "vitinho", 10, false];
 
 const renan = names[3];
 
-names.push("joao");
-
-console.log(names);
+//names.push("joao");
 
 names.unshift(20);
+
+names.pop([1]);
 
 console.log(names);
