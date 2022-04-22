@@ -10,9 +10,6 @@ names.pop();
 names.pop();
 names.pop();
 
-
-
-
-
+names[3] = "gustavo";
 
 console.log(names);
