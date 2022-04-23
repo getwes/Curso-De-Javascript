@@ -12,4 +12,6 @@ names.pop();
 
 names[3] = "gustavo";
 
+console.log(names.indexOf('renan'));
+
 console.log(names);
